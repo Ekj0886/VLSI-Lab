@@ -1,4 +1,5 @@
 # <span style="font-size: 2.5em;">NYCU 2022 Fall - VLSI Lab</span>
+### Each folder contains further details in report.pdf 
 
 ## <span style="font-size: 1.8em;">Lab1:</span> 1-bit CMOS FA Hspice Pre-sim  
 ![Lab1](image/Lab1.png)
