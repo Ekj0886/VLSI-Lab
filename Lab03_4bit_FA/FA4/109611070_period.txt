@@ -1,0 +1,2 @@
+Pre-sim: 0.52 ns
+Post-sim: 0.59 ns

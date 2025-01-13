@@ -1,0 +1,180 @@
+.meas tran rise_1sum[0] trig v(sum[0]) val='supply*0.1' rise=1
++targ v(sum[0]) val='supply*0.9' rise=1
+
+.meas tran rise_2sum[0] trig v(sum[0]) val='supply*0.1' rise=2
++targ v(sum[0]) val='supply*0.9' rise=2
+
+.meas tran rise_3sum[0] trig v(sum[0]) val='supply*0.1' rise=3
++targ v(sum[0]) val='supply*0.9' rise=3
+
+.meas tran rise_4sum[0] trig v(sum[0]) val='supply*0.1' rise=4
++targ v(sum[0]) val='supply*0.9' rise=4
+
+.meas tran rise_5sum[0] trig v(sum[0]) val='supply*0.1' rise=5
++targ v(sum[0]) val='supply*0.9' rise=5
+
+.meas tran rise_6sum[0] trig v(sum[0]) val='supply*0.1' rise=6
++targ v(sum[0]) val='supply*0.9' rise=6
+
+.meas tran rise_7sum[0] trig v(sum[0]) val='supply*0.1' rise=7
++targ v(sum[0]) val='supply*0.9' rise=7
+
+.meas tran rise_8sum[0] trig v(sum[0]) val='supply*0.1' rise=8
++targ v(sum[0]) val='supply*0.9' rise=8
+
+.meas tran rise_9sum[0] trig v(sum[0]) val='supply*0.1' rise=9
++targ v(sum[0]) val='supply*0.9' rise=9
+
+.meas tran rise_10sum[0] trig v(sum[0]) val='supply*0.1' rise=10
++targ v(sum[0]) val='supply*0.9' rise=10
+
+.meas tran rise_11sum[0] trig v(sum[0]) val='supply*0.1' rise=11
++targ v(sum[0]) val='supply*0.9' rise=11
+
+.meas tran rise_12sum[0] trig v(sum[0]) val='supply*0.1' rise=12
++targ v(sum[0]) val='supply*0.9' rise=12
+
+.meas tran rise_1sum[1] trig v(sum[1]) val='supply*0.1' rise=1
++targ v(sum[1]) val='supply*0.9' rise=1
+
+.meas tran rise_2sum[1] trig v(sum[1]) val='supply*0.1' rise=2
++targ v(sum[1]) val='supply*0.9' rise=2
+
+.meas tran rise_3sum[1] trig v(sum[1]) val='supply*0.1' rise=3
++targ v(sum[1]) val='supply*0.9' rise=3
+
+.meas tran rise_4sum[1] trig v(sum[1]) val='supply*0.1' rise=4
++targ v(sum[1]) val='supply*0.9' rise=4
+
+.meas tran rise_5sum[1] trig v(sum[1]) val='supply*0.1' rise=5
++targ v(sum[1]) val='supply*0.9' rise=5
+
+.meas tran rise_6sum[1] trig v(sum[1]) val='supply*0.1' rise=6
++targ v(sum[1]) val='supply*0.9' rise=6
+
+.meas tran rise_7sum[1] trig v(sum[1]) val='supply*0.1' rise=7
++targ v(sum[1]) val='supply*0.9' rise=7
+
+.meas tran rise_8sum[1] trig v(sum[1]) val='supply*0.1' rise=8
++targ v(sum[1]) val='supply*0.9' rise=8
+
+.meas tran rise_9sum[1] trig v(sum[1]) val='supply*0.1' rise=9
++targ v(sum[1]) val='supply*0.9' rise=9
+
+.meas tran rise_10sum[1] trig v(sum[1]) val='supply*0.1' rise=10
++targ v(sum[1]) val='supply*0.9' rise=10
+
+.meas tran rise_11sum[1] trig v(sum[1]) val='supply*0.1' rise=11
++targ v(sum[1]) val='supply*0.9' rise=11
+
+.meas tran rise_12sum[1] trig v(sum[1]) val='supply*0.1' rise=12
++targ v(sum[1]) val='supply*0.9' rise=12
+
+.meas tran rise_13sum[1] trig v(sum[1]) val='supply*0.1' rise=13
++targ v(sum[1]) val='supply*0.9' rise=13
+
+.meas tran rise_1sum[2] trig v(sum[2]) val='supply*0.1' rise=1
++targ v(sum[2]) val='supply*0.9' rise=1
+
+.meas tran rise_2sum[2] trig v(sum[2]) val='supply*0.1' rise=2
++targ v(sum[2]) val='supply*0.9' rise=2
+
+.meas tran rise_3sum[2] trig v(sum[2]) val='supply*0.1' rise=3
++targ v(sum[2]) val='supply*0.9' rise=3
+
+.meas tran rise_4sum[2] trig v(sum[2]) val='supply*0.1' rise=4
++targ v(sum[2]) val='supply*0.9' rise=4
+
+.meas tran rise_5sum[2] trig v(sum[2]) val='supply*0.1' rise=5
++targ v(sum[2]) val='supply*0.9' rise=5
+
+.meas tran rise_6sum[2] trig v(sum[2]) val='supply*0.1' rise=6
++targ v(sum[2]) val='supply*0.9' rise=6
+
+.meas tran rise_7sum[2] trig v(sum[2]) val='supply*0.1' rise=7
++targ v(sum[2]) val='supply*0.9' rise=7
+
+.meas tran rise_8sum[2] trig v(sum[2]) val='supply*0.1' rise=8
++targ v(sum[2]) val='supply*0.9' rise=8
+
+.meas tran rise_9sum[2] trig v(sum[2]) val='supply*0.1' rise=9
++targ v(sum[2]) val='supply*0.9' rise=9
+
+.meas tran rise_10sum[2] trig v(sum[2]) val='supply*0.1' rise=10
++targ v(sum[2]) val='supply*0.9' rise=10
+
+.meas tran rise_11sum[2] trig v(sum[2]) val='supply*0.1' rise=11
++targ v(sum[2]) val='supply*0.9' rise=11
+
+.meas tran rise_1sum[3] trig v(sum[3]) val='supply*0.1' rise=1
++targ v(sum[3]) val='supply*0.9' rise=1
+
+.meas tran rise_2sum[3] trig v(sum[3]) val='supply*0.1' rise=2
++targ v(sum[3]) val='supply*0.9' rise=2
+
+.meas tran rise_3sum[3] trig v(sum[3]) val='supply*0.1' rise=3
++targ v(sum[3]) val='supply*0.9' rise=3
+
+.meas tran rise_4sum[3] trig v(sum[3]) val='supply*0.1' rise=4
++targ v(sum[3]) val='supply*0.9' rise=4
+
+.meas tran rise_5sum[3] trig v(sum[3]) val='supply*0.1' rise=5
++targ v(sum[3]) val='supply*0.9' rise=5
+
+.meas tran rise_6sum[3] trig v(sum[3]) val='supply*0.1' rise=6
++targ v(sum[3]) val='supply*0.9' rise=6
+
+.meas tran rise_7sum[3] trig v(sum[3]) val='supply*0.1' rise=7
++targ v(sum[3]) val='supply*0.9' rise=7
+
+.meas tran rise_8sum[3] trig v(sum[3]) val='supply*0.1' rise=8
++targ v(sum[3]) val='supply*0.9' rise=8
+
+.meas tran rise_9sum[3] trig v(sum[3]) val='supply*0.1' rise=9
++targ v(sum[3]) val='supply*0.9' rise=9
+
+.meas tran rise_10sum[3] trig v(sum[3]) val='supply*0.1' rise=10
++targ v(sum[3]) val='supply*0.9' rise=10
+
+.meas tran rise_11sum[3] trig v(sum[3]) val='supply*0.1' rise=11
++targ v(sum[3]) val='supply*0.9' rise=11
+
+.meas tran rise_12sum[3] trig v(sum[3]) val='supply*0.1' rise=12
++targ v(sum[3]) val='supply*0.9' rise=12
+
+.meas tran rise_13sum[3] trig v(sum[3]) val='supply*0.1' rise=13
++targ v(sum[3]) val='supply*0.9' rise=13
+
+.meas tran rise_1cout trig v(cout) val='supply*0.1' rise=1
++targ v(cout) val='supply*0.9' rise=1
+
+.meas tran rise_2cout trig v(cout) val='supply*0.1' rise=2
++targ v(cout) val='supply*0.9' rise=2
+
+.meas tran rise_3cout trig v(cout) val='supply*0.1' rise=3
++targ v(cout) val='supply*0.9' rise=3
+
+.meas tran rise_4cout trig v(cout) val='supply*0.1' rise=4
++targ v(cout) val='supply*0.9' rise=4
+
+.meas tran rise_5cout trig v(cout) val='supply*0.1' rise=5
++targ v(cout) val='supply*0.9' rise=5
+
+.meas tran rise_6cout trig v(cout) val='supply*0.1' rise=6
++targ v(cout) val='supply*0.9' rise=6
+
+.meas tran rise_7cout trig v(cout) val='supply*0.1' rise=7
++targ v(cout) val='supply*0.9' rise=7
+
+.meas tran rise_8cout trig v(cout) val='supply*0.1' rise=8
++targ v(cout) val='supply*0.9' rise=8
+
+.meas tran rise_9cout trig v(cout) val='supply*0.1' rise=9
++targ v(cout) val='supply*0.9' rise=9
+
+.meas tran rise_10cout trig v(cout) val='supply*0.1' rise=10
++targ v(cout) val='supply*0.9' rise=10
+
+.meas tran rise_11cout trig v(cout) val='supply*0.1' rise=11
++targ v(cout) val='supply*0.9' rise=11
+
