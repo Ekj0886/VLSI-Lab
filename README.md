@@ -1,2 +1,2 @@
 # VLSI-Lab
-NYCU 2022 Fall VLSI Lab
+NYCU 2022 Fall - VLSI Lab
